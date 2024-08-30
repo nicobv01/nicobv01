@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicobv01
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning more about C#
+- 🌱 I’m currently learning more about NestJs
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/nicole-batista-15a12a147/)
 
